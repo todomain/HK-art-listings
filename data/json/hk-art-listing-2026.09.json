@@ -1,0 +1,842 @@
+{
+  "summary": {
+    "month": "2026-09",
+    "total_records": 55,
+    "last_updated": "2026-06-02"
+  },
+  "records": [
+    {
+      "id": "3a51978c-3009-11f1-bb7f-dafe16e01704",
+      "category": "cinema",
+      "title_zh": "戲曲電影精選",
+      "title_en": "Gems of Chinese Opera Film",
+      "opening_periods": "2026-09-18~2026-09-19",
+      "websites": [
+        "https://www.filmarchive.gov.hk/tc/web/hkfa/2026/ccf-chinese-opera/pe-event-2026-ccf-chinese-opera.html"
+      ],
+      "venue_zh": "香港電影資料館",
+      "venue_en": "Hong Kong Film Archive",
+      "address_zh": "香港西灣河鯉景道50號",
+      "address_en": "50 Lei King Road, Sai Wan Ho, Hong Kong",
+      "district": "hk_east"
+    },
+    {
+      "id": "627d5f5b-5b3f-11f1-a41b-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "百層百視： 岩井俊雄的創意旅程",
+      "title_en": "100-Story 100 Stories: Toshio Iwai's Art Journey​",
+      "opening_periods": "2026-06-13~2026-09-26",
+      "websites": [
+        "https://umag.hku.hk/tc/exhibition/100-story-100-stories-toshio-iwais-art-journey/"
+      ],
+      "venue_zh": "香港大學美術博物館",
+      "venue_en": "University Museum and Art Gallery, HKU",
+      "address_zh": "香港薄扶林般咸道90號",
+      "address_en": "90 Bonham Road, Pokfulam, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "62301438-5b3f-11f1-a41b-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "小王子與飛行員",
+      "title_en": "The Little Prince and the Pilot",
+      "opening_periods": "2026-06-25~2026-10-17",
+      "websites": [
+        "https://umag.hku.hk/tc/exhibition/the-little-prince-and-the-pilot/"
+      ],
+      "venue_zh": "香港大學美術博物館",
+      "venue_en": "University Museum and Art Gallery, HKU",
+      "address_zh": "香港薄扶林般咸道90號",
+      "address_en": "90 Bonham Road, Pokfulam, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "4b9b98e0-53eb-11f1-9688-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "",
+      "title_en": "City of Lights | Keith Macgregor",
+      "opening_periods": "2026-06-18~2026-10-04",
+      "websites": [
+        "https://bluelotus-gallery.com/new-events/city-of-lights-keith-macgregor"
+      ],
+      "venue_zh": "Blue Lotus Gallery",
+      "venue_en": "Blue Lotus Gallery",
+      "address_zh": "香港島太平山磅巷28號",
+      "address_en": "28 Pound Lane, Tai Ping Shan, Hong Kong Island, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "37f0f037-53eb-11f1-9688-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "",
+      "title_en": "Bosco Sodi, Scroll Paintings",
+      "opening_periods": "2026-05-29~2026-09-04",
+      "websites": [
+        "https://www.axel-vervoordt.com/gallery/exhibitions/bosco-sodi-scroll-paintings"
+      ],
+      "venue_zh": "Axel Vervoordt 維伍德畫廊",
+      "venue_en": "Axel Vervoordt Gallery",
+      "address_zh": "香港黃竹坑道62號科達設計中心21樓",
+      "address_en": "21F, Coda Designer Centre, 62, Wong Chuk Hang Road, Wong Chuk Hang, Hong Kong",
+      "district": "hk_south"
+    },
+    {
+      "id": "0ccc3cb0-53eb-11f1-9688-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "",
+      "title_en": "Josephine Turalba: We are the Sea",
+      "opening_periods": "on view from 2026-06-02",
+      "websites": [
+        "https://www.10chancerylanegallery.com/exhibitions/195-josephine-turalba-we-are-the-sea-curated-by-caroline-ha-thuc/"
+      ],
+      "venue_zh": "10 Chancery Lane Gallery 10號贊善里畫廊",
+      "venue_en": "10 Chancery Lane Gallery",
+      "address_zh": "香港中環贊善里10號",
+      "address_en": "",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "7a9180ab-4811-11f1-8736-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "拍住上—光影裡並肩馳騁的我們",
+      "title_en": "Better Together – Partnering Up for Hong Kong Movies | Tai Kwun",
+      "opening_periods": "2026-06-23~2026-10-04",
+      "websites": [
+        "https://www.taikwun.hk/zh/programme/detail/better-together-partnering-up-for-hong-kong-movies/1795"
+      ],
+      "venue_zh": "Tai Kwun 大館",
+      "venue_en": "Tai Kwun",
+      "address_zh": "香港中環荷李活道10號",
+      "address_en": "10 Hollywood Road, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "4127d94c-387f-11f1-81dc-dafe16e01704",
+      "category": "exhibition",
+      "title_zh": "PMQ 繪本館「START FROM HERE」",
+      "title_en": "PMQ Picture Book Library “START FROM HERE”",
+      "opening_periods": "2026-04-22~2027-03-30",
+      "websites": [
+        "https://www.pmq.org.hk/event/pmq-picture-book-library-start-from-here/?lang=ch"
+      ],
+      "venue_zh": "PMQ元創方",
+      "venue_en": "PMQ",
+      "address_zh": "香港中環鴨巴甸街35號",
+      "address_en": "35 Aberdeen Street, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "c9e99b0e-2922-11f1-a125-dafe16e01704",
+      "category": "exhibition",
+      "title_zh": "安妮．伊姆霍夫",
+      "title_en": "Anne Imhof ",
+      "opening_periods": "2026-09-25~2027-01-02",
+      "websites": [
+        "https://www.taikwun.hk/zh/programme/detail/anne-imhof/1776"
+      ],
+      "venue_zh": "Tai Kwun 大館",
+      "venue_en": "Tai Kwun",
+      "address_zh": "香港中環荷李活道10號",
+      "address_en": "10 Hollywood Road, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "11dbc08e-5196-11f1-a02e-1ab7d6ca2563",
+      "category": "exhibition/education",
+      "title_zh": "離 · 合：智化寺的般若之旅",
+      "title_en": "Fragmented yet Connected: Paths to Wisdom at the Zhihua Temple",
+      "opening_periods": "2026-06-04~2026-12-03",
+      "websites": [
+        "https://caea.lib.uchicago.edu/exhibition/hk-2026/",
+        "https://www.instagram.com/p/DYWjPLwPdDi"
+      ],
+      "venue_zh": "香港賽馬會芝加哥大學教育綜合大樓 芝加哥大學袁天凡、慧敏校園",
+      "venue_en": "The Hong Kong Jockey Club University of Chicago Academic Complex The University of Chicago Francis and Rose Yuen Campus in Hong Kong",
+      "address_zh": "香港摩星嶺域多利道168號",
+      "address_en": "168 Victoria Road, Mount Davis, Hong Kong",
+      "district": ""
+    },
+    {
+      "id": "89146cd8-1312-11f1-aa3f-dafe16e01704",
+      "category": "exhibition/gallery",
+      "title_zh": "迴光浮影：記憶的邊界",
+      "title_en": "What the Light Remembers",
+      "opening_periods": "on view from 2025-09-04",
+      "websites": [
+        "https://amandaweigallery.com/zh/exhibitions/48-what-the-light-remembers/overview"
+      ],
+      "venue_zh": "魏畫廊 WEI GALLERY",
+      "venue_en": "Wei Gallery",
+      "address_zh": "香港半山區漆咸徑1號",
+      "address_en": "1 Chatham Path, Mid-Levels, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "12b381da-1842-11f1-885e-dafe16e01704",
+      "category": "exhibition/institution",
+      "title_zh": "點止執印切釘——書的藝術",
+      "title_en": "Beyond the Ordinary – Contemporary Book Art",
+      "opening_periods": "2026-03-20~2026-09-29",
+      "websites": [
+        "https://www.instagram.com/p/DVdccXkE620"
+      ],
+      "venue_zh": "Print Art Contemporary 當代印藝",
+      "venue_en": "Print Art Contemporary",
+      "address_zh": "香港中環鴨巴甸街35號PMQ元創方",
+      "address_en": "PMQ, 35 Aberdeen Street, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "4460f111-150e-11f1-885e-dafe16e01704",
+      "category": "exhibition/institution",
+      "title_zh": "vA! 駐留 — 穿鑿：如果伯活樓……",
+      "title_en": "vA! Residency — Incising the Matrix: If Birdwood Block…",
+      "opening_periods": "2026-03-11~2026-10-11",
+      "websites": [
+        "https://www.apo.hk/tc/web/apo/va_residency_birdwood_block.html"
+      ],
+      "venue_zh": "香港視覺藝術中心",
+      "venue_en": "Hong Kong Visual Arts Centre",
+      "address_zh": "香港中環堅尼地道 7A 號",
+      "address_en": "7A Kennedy Road, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "85a18c45-0255-11f1-a3e3-dafe16e01704",
+      "category": "exhibition/institution",
+      "title_zh": "飛越溫暖牌：香港童年布藝",
+      "title_en": "Snuggle and Stitch: Childhood Textiles of Hong Kong",
+      "opening_periods": "2026-03-07~2027-02-20",
+      "websites": [
+        "https://www.mill6chat.org/zh-hant/event/snuggle-and-stitch-childhood-textiles-of-hong-kong"
+      ],
+      "venue_zh": "CHAT 六廠",
+      "venue_en": "CHAT",
+      "address_zh": "香港荃灣白田壩街45號南豐紗廠",
+      "address_en": "45 Pak Tin Par Street, Tsuen Wan, N.T., Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "3c51b4a9-0255-11f1-a3e3-dafe16e01704",
+      "category": "exhibition/institution",
+      "title_zh": "空間·生態·詩學：鄭靖的藝術之道",
+      "title_en": "Space · Ecology · Poetics: Zheng Jing's Way of Art ",
+      "opening_periods": "2026-03-18~2026-10-10",
+      "websites": [
+        "https://www.apo.hk/tc/web/apo/oi_spotlight_space_ecology_poetics_zhengjing_art.html"
+      ],
+      "venue_zh": "Oi! 油街實現",
+      "venue_en": "Oi!",
+      "address_zh": "香港北角油街12號",
+      "address_en": "12 Oil Street, North Point, Hong Kong",
+      "district": "hk_east"
+    },
+    {
+      "id": "22208181-b52f-11f0-afa2-dafe16e01704",
+      "category": "exhibition/institution",
+      "title_zh": "陳福善畫室",
+      "title_en": "Luis Chan Studio",
+      "opening_periods": "2022-05-24~2027-05-26",
+      "websites": [
+        "https://hkac.org.hk/calendar_detail/?u=msGDLDKMe-0"
+      ],
+      "venue_zh": "香港藝術中心",
+      "venue_en": "Hong Kong Arts Centre",
+      "address_zh": "香港灣仔港灣道2號",
+      "address_en": "2 Harbour Road, Wan Chai, Hong Kong",
+      "district": "hk_wanchai"
+    },
+    {
+      "id": "031f7c3a-5b41-11f1-a41b-1ab7d6ca2563",
+      "category": "exhibition/museum",
+      "title_zh": "WoW! 香港設計系列 II — 東西設計交響：Haven 系列明式傢俱與百年座椅遊戲",
+      "title_en": "Hong Kong Heritage Museum - WoW! Hong Kong Design Series II — East-West Design Reflections: Haven Collection's Ming Furniture and a Century of Chair Play",
+      "opening_periods": "2026-05-23~2027-04-11",
+      "websites": [
+        "https://hk.heritage.museum/tc/exhibitions/wow2_furniture.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "c831c9b6-53ec-11f1-9688-1ab7d6ca2563",
+      "category": "exhibition/museum",
+      "title_zh": "由重讀到重逢──再遇館藏中國書畫（第一期）",
+      "title_en": "Reading & Re-reading: Chinese Painting and Calligraphy (Phase I)",
+      "opening_periods": "on view from 2026-06-25",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/reading-and-rereading.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "09985fbf-423f-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "赫里 · 多諾：思想發酵",
+      "title_en": "Heri Dono: Fermentation of the Mind",
+      "opening_periods": "2026-05-30~2026-10-25",
+      "websites": [
+        "https://www.mplus.org.hk/tc/exhibitions/heri-dono-fermentation-of-the-mind",
+        "https://www.westk.hk/tc/event/heri-dono-fermentation-of-the-mind"
+      ],
+      "venue_zh": "M+",
+      "venue_en": "M+",
+      "address_zh": "香港西九文化區博物館道38號",
+      "address_en": "38 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "09486f8c-423f-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "瓦爾 · 肖基：我是新神廟的聖歌",
+      "title_en": "Wael Shawky: I Am Hymns of the New Temples",
+      "opening_periods": "2026-05-29~2026-10-24",
+      "websites": [
+        "https://www.mplus.org.hk/tc/exhibitions/wael-shawky-i-am-hymns-of-the-new-temples",
+        "https://www.westk.hk/tc/event/wael-shawky-i-am-hymns-of-the-new-temples"
+      ],
+      "venue_zh": "M+",
+      "venue_en": "M+",
+      "address_zh": "香港西九文化區博物館道38號",
+      "address_en": "38 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "b6bd48b8-423e-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "粵藝遠洋──沐文堂廣東及外銷藝術捐贈展",
+      "title_en": "Proudly from Canton: The Muwen Tang Collection of Cantonese and Export Art",
+      "opening_periods": "on view from 2026-05-28",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/proudly-from-canton.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "aedfa80c-423e-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "藏域梵珍 • 佛學之路 — 徐氏藝術基金捐贈佛教文物展",
+      "title_en": "Buddhist Pilgrimage: Treasures from the Donation of The Tsui Art Foundation",
+      "opening_periods": "2024-10-30~2026-10-26",
+      "websites": [
+        "https://hk.heritage.museum/tc/exhibitions/buddhist2024.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "ae41756e-423e-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "眺潮香港60+",
+      "title_en": "Hong Kong Pop 60+",
+      "opening_periods": "on view from 2024-06-30",
+      "websites": [
+        "https://hk.heritage.museum/tc/exhibitions/hkpop60.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "adeea73e-423e-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "詼諧惹笑「丑生王」 — 梁醒波",
+      "title_en": "The King of Comic Roles” – Leung Sing Por",
+      "opening_periods": "2026-03-06~2028-04-24",
+      "websites": [
+        "https://hk.heritage.museum/tc/exhibitions/lsp2026.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "ad53e1ec-423e-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "趙少昂：花卉精選畫作與詩歌",
+      "title_en": "On Flowers: Selected Paintings and Poems by Chao Shao-an",
+      "opening_periods": "on view from 2026-04-14",
+      "websites": [
+        "https://hk.heritage.museum/tc/exhibitions/csa_flower.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "aca820e1-423e-11f1-81dc-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "平凡・不平凡 — 李小龍",
+      "title_en": "Hong Kong Heritage Museum - A Man Beyond the Ordinary: Bruce Lee",
+      "opening_periods": "on view from 2024-06-30",
+      "websites": [
+        "https://hk.heritage.museum/tc/exhibitions/bruce_lee.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "b3dd4113-291e-11f1-a125-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "琳瑯──紐約大都會藝術博物館世界珠寶珍藏",
+      "title_en": "Treasures of Global Jewellery from The Metropolitan Museum of Art: The Body Transformed",
+      "opening_periods": "2026-04-14~2026-10-18",
+      "websites": [
+        "https://www.hkpm.org.hk/tc/exhibition/treasures-of-global-jewellery-from-the-metropolitan-museum-of-art-the-body-transformed",
+        "https://www.westk.hk/tc/event/treasures-global-jewellery-metropolitan-museum-art-body-transformed"
+      ],
+      "venue_zh": "香港故宮文化博物館",
+      "venue_en": "Hong Kong Palace Museum",
+      "address_zh": "香港西九文化區博物館道8號",
+      "address_en": "8 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a76cf59f-25a8-11f1-a125-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "天馬凌雲──故宮博物院藏繪畫珍品",
+      "title_en": "Heavenly Horses: Masterpieces from the Palace Museum",
+      "opening_periods": "2026-03-20~2027-03-17",
+      "websites": [
+        "https://www.hkpm.org.hk/tc/exhibition/heavenly-horses-masterpieces-from-the-palace-museum"
+      ],
+      "venue_zh": "香港故宮文化博物館",
+      "venue_en": "Hong Kong Palace Museum",
+      "address_zh": "香港西九文化區博物館道8號",
+      "address_en": "8 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a2a47b3e-1e78-11f1-88ee-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "幸會25歲──香港電影資料館珍藏展",
+      "title_en": "Hong Kong Film Archive Stories: Treasure Hunting for 25 Years",
+      "opening_periods": "2026-03-05~2027-03-28",
+      "websites": [
+        "https://www.filmarchive.gov.hk/tc/web/hkfa/2026/25a-hm/pe-event-2026-25a-hm.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "03d14c8d-0df4-11f1-8081-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "當下──香港藝術展",
+      "title_en": "Live: Hong Kong Art Exhibition",
+      "opening_periods": "on view from 2026-03-19",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/live-hong-kong-art-exhibition.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "26f57525-0176-11f1-a3e3-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "尋覓・一馬當先",
+      "title_en": "Seeking・Gallop at the Head",
+      "opening_periods": "on view from 2026-01-31",
+      "websites": [
+        "https://www.guweimuseum.com/zh-hk/exhibition/尋覓・一馬當先"
+      ],
+      "venue_zh": "Guwei Museum 古魏博物館",
+      "venue_en": "Guwei Museum",
+      "address_zh": "香港黃竹坑道21號環匯廣場33樓全層",
+      "address_en": "21 Wong Chuk Hang Road",
+      "district": "hk_south"
+    },
+    {
+      "id": "ac8264d8-edc2-11f0-8ee1-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "好物有型──香港藝術館藏精品展",
+      "title_en": "Art Personalised: Masterpieces from the HKMoA",
+      "opening_periods": "on view from 2026-01-09",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/art-personalised-masterpieces-from-the-hkmoa-phase-VI.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "bf625db1-d636-11f0-9a41-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "吳冠中藝術贊助跨界系列：光進來的地方",
+      "title_en": "Wu Guanzhong Art Sponsorship Cross-disciplinary Series: Light Entry",
+      "opening_periods": "on view from 2025-12-22",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/light-entry.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "0cf4f862-cc4f-11f0-9166-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "吳冠中藝術贊助專題展覽系列：吳冠中──邂逅風景",
+      "title_en": "Wu Guanzhong Art Sponsorship Thematic Exhibition Series: Wu Guanzhong: Encountering Landscapes",
+      "opening_periods": "on view from 2025-12-22",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/encountering-landscapes.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "4730697d-b9e9-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "香港賽馬會呈獻系列：藝滿芳庭──香港故宮文化博物館藝術廣場計劃",
+      "title_en": "",
+      "opening_periods": "2025-11-07~2026-11-01",
+      "websites": [
+        "https://www.hkpm.org.hk/tc/exhibition/the-hong-kong-jockey-club-series-the-art-plaza-project-at-the-hong-kong-palace-museum"
+      ],
+      "venue_zh": "香港故宮文化博物館",
+      "venue_en": "Hong Kong Palace Museum",
+      "address_zh": "香港西九文化區博物館道8號",
+      "address_en": "8 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a32349e6-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "M+ 希克藏品： 心靈圖景",
+      "title_en": "M+ Sigg Collection: Inner Worlds",
+      "opening_periods": "on view from 2025-06-26",
+      "websites": [
+        "https://www.mplus.org.hk/tc/exhibitions/m-sigg-collection-inner-worlds"
+      ],
+      "venue_zh": "M+",
+      "venue_en": "M+",
+      "address_zh": "香港西九文化區博物館道38號",
+      "address_en": "38 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a4e05314-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "設計啊！感受日常設計之奇妙",
+      "title_en": "Design Ah! Experience the Wonder of Everyday Design",
+      "opening_periods": "2026-06-26~2027-01-09",
+      "websites": [
+        "https://www.mplus.org.hk/tc/exhibitions/design-ah-experience-the-wonder-of-everyday-design",
+        "https://www.westk.hk/tc/event/design-ah-experience-wonder-everyday-design"
+      ],
+      "venue_zh": "M+",
+      "venue_en": "M+",
+      "address_zh": "香港西九文化區博物館道38號",
+      "address_en": "38 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a5500ed2-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "Herzog & de Meuron：聚焦",
+      "title_en": "Herzog & de Meuron: In Focus",
+      "opening_periods": "on view from 2026-09-11",
+      "websites": [
+        "https://www.mplus.org.hk/tc/exhibitions/herzog-de-meuron-in-focus",
+        "https://www.westk.hk/tc/event/herzog-de-meuron-in-focus"
+      ],
+      "venue_zh": "M+",
+      "venue_en": "M+",
+      "address_zh": "香港西九文化區博物館道38號",
+      "address_en": "38 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a58798f3-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "珍妮特・卡迪夫：四十聲部經文歌",
+      "title_en": "Janet Cardiff: The Forty Part Motet",
+      "opening_periods": "on view from 2026-08-14",
+      "websites": [
+        "https://www.mplus.org.hk/tc/exhibitions/janet-cardiff-the-forty-part-motet",
+        "https://www.westk.hk/tc/event/janet-cardiff-forty-part-motet"
+      ],
+      "venue_zh": "M+",
+      "venue_en": "M+",
+      "address_zh": "香港西九文化區博物館道38號",
+      "address_en": "38 Museum Drive, West Kowloon Cultural District, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "b52e82bf-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "千里遊蹤：一萬曆號與青花瓷的世界",
+      "title_en": "The Wanli Shipwreck: Blue and White Porcelain in Global Trade",
+      "opening_periods": "on view from 2025-07-05",
+      "websites": [
+        "https://www.guweimuseum.com/zh-hk/exhibition/千里遊蹤一萬曆號與青花瓷的世界"
+      ],
+      "venue_zh": "Guwei Museum 古魏博物館",
+      "venue_en": "Guwei Museum",
+      "address_zh": "香港黃竹坑道21號環匯廣場33樓全層",
+      "address_en": "21 Wong Chuk Hang Road",
+      "district": "hk_south"
+    },
+    {
+      "id": "b565a686-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "龍蛇共舞‧跨域賞蛇",
+      "title_en": "Chinese Dragon and Snake Connection – The snake in the Chinese and foreign cultures",
+      "opening_periods": "on view from 2025-01-13",
+      "websites": [
+        "https://www.guweimuseum.com/zh-hk/exhibition/龍蛇共舞‧跨域賞蛇"
+      ],
+      "venue_zh": "Guwei Museum 古魏博物館",
+      "venue_en": "Guwei Museum",
+      "address_zh": "香港黃竹坑道21號環匯廣場33樓全層",
+      "address_en": "21 Wong Chuk Hang Road",
+      "district": "hk_south"
+    },
+    {
+      "id": "b581410f-b47e-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "古魏博物館開幕特展：龍鳳獻吉祥",
+      "title_en": "The Dragon and Phoenix offer Auspiciousness",
+      "opening_periods": "on view from 2024-09-23",
+      "websites": [
+        "https://www.guweimuseum.com/zh-hk/exhibition/據說擁有神奇力量的畫作-2"
+      ],
+      "venue_zh": "Guwei Museum 古魏博物館",
+      "venue_en": "Guwei Museum",
+      "address_zh": "香港黃竹坑道21號環匯廣場33樓全層",
+      "address_en": "21 Wong Chuk Hang Road",
+      "district": "hk_south"
+    },
+    {
+      "id": "531126de-b52a-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "藏域瑰珍．佛學之路 — 徐氏藝術基金捐贈佛教文物展",
+      "title_en": "",
+      "opening_periods": "2024-10-29~2026-10-25",
+      "websites": [
+        "https://hk.heritage.museum/tc/web/hm/exhibitions/data/buddhist2024.html"
+      ],
+      "venue_zh": "香港文化博物館",
+      "venue_en": "Hong Kong Heritage Museum",
+      "address_zh": "香港沙田文林路1號",
+      "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
+      "district": "nt"
+    },
+    {
+      "id": "57b54b4f-b52a-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "好物有型——香港藝術館藏精品展（第五期）",
+      "title_en": "Art Personalised: Masterpieces from the HKMoA",
+      "opening_periods": "on view from 2025-07-11",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/art-personalised-masterpieces-from-the-hkmoa-phase5.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "58023192-b52a-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "圓夢前行：香港藝術二三事",
+      "title_en": "Dreamchasers: Stories of Hong Kong Art",
+      "opening_periods": "on view from 2025-03-20",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/dreamchasers.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "584fb938-b52a-11f0-afa2-dafe16e01704",
+      "category": "exhibition/museum",
+      "title_zh": "袖珍．厚禮——浮雲軒藏中國鼻煙壺捐贈展",
+      "title_en": "Art of Gifting: The Fuyun Xuan Collection of Chinese Snuff Bottles",
+      "opening_periods": "on view from 2024-04-11",
+      "websites": [
+        "https://hk.art.museum/tc/web/ma/exhibitions-and-events/art-of-gifting.html"
+      ],
+      "venue_zh": "香港藝術館",
+      "venue_en": "Hong Kong Museum of Art",
+      "address_zh": "香港尖沙咀梳士巴利道10號",
+      "address_en": "10 Salisbury Road, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a3dba16d-5029-11f1-a02e-1ab7d6ca2563",
+      "category": "installation/publicart",
+      "title_zh": "",
+      "title_en": "Heart to Hart",
+      "opening_periods": "on view from 2026-05-21",
+      "websites": [
+        "https://www.thecornershophk.com/event-details/opening-heart-to-hart",
+        "https://www.instagram.com/mondrianhongkong/p/DYG7l6KjV0O/"
+      ],
+      "venue_zh": "The Corner Shop by Modrian Hong Kong",
+      "venue_en": "The Corner Shop by Modrian Hong Kong",
+      "address_zh": "香港尖沙咀赫德道11A-11D號",
+      "address_en": "11A-11D Hart Avenue, Tsim Sha Tsui, Hong Kong",
+      "district": "kl_west"
+    },
+    {
+      "id": "a1763d1d-b9f8-11f0-afa2-dafe16e01704",
+      "category": "installation/publicart",
+      "title_zh": "Sunmoji",
+      "title_en": "",
+      "opening_periods": "on view from 2025-11-30",
+      "websites": [
+        "https://www.apo.hk/tc/web/apo/oi_sunmoji.html"
+      ],
+      "venue_zh": "Oi! 油街實現",
+      "venue_en": "Oi!",
+      "address_zh": "香港北角油街12號",
+      "address_en": "12 Oil Street, North Point, Hong Kong",
+      "district": "hk_east"
+    },
+    {
+      "id": "5d5010ce-b52a-11f0-afa2-dafe16e01704",
+      "category": "installation/publicart",
+      "title_zh": "油街日常：好士多",
+      "title_en": "",
+      "opening_periods": "2025-10-20~2026-10-17",
+      "websites": [
+        "https://www.apo.hk/tc/web/apo/oi_daily_good_store.html"
+      ],
+      "venue_zh": "Oi! 油街實現",
+      "venue_en": "Oi!",
+      "address_zh": "香港北角油街12號",
+      "address_en": "12 Oil Street, North Point, Hong Kong",
+      "district": "hk_east"
+    },
+    {
+      "id": "1d6ac8c5-dbad-11f0-9a41-dafe16e01704",
+      "category": "installation/sitespecific",
+      "title_zh": "艾莉斯亞．夸德：等候亭",
+      "title_en": "Alice Aycock: Waiting Room",
+      "opening_periods": "2024-12-19~2026-11-25",
+      "websites": [
+        "https://www.taikwun.hk/zh/programme/detail/alicja-kwade-waiting-pavilions/1529"
+      ],
+      "venue_zh": "Tai Kwun 大館",
+      "venue_en": "Tai Kwun",
+      "address_zh": "香港中環荷李活道10號",
+      "address_en": "10 Hollywood Road, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "02bbf1d3-3d3d-11f1-81dc-dafe16e01704",
+      "category": "performance",
+      "title_zh": "兒童藝術科技⾳樂劇場《五行中西》",
+      "title_en": "Children Art Tech Music Theatre -- 5 Elements East West",
+      "opening_periods": "2026-09-18~2026-09-19 / 2026-09-25~2026-09-26 / 2026-09-30 / 2026-10-02~2026-10-03",
+      "websites": [
+        "https://zuniseason.org.hk/programme/5-elements-east-west-2026"
+      ],
+      "venue_zh": "上環文娛中心五樓劇院及六樓展覽廳",
+      "venue_en": "5/F Theatre & 6/F Exhibition Hall, Sheung Wan Civic Centre",
+      "address_zh": "香港上環皇后大道中345號",
+      "address_en": "345 Queen's Road Central, Sheung Wan, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "e6a82ea5-3d31-11f1-81dc-dafe16e01704",
+      "category": "performance/theatre",
+      "title_zh": "現代豪俠「轉」",
+      "title_en": "Modern Wuxia: To Turn",
+      "opening_periods": "2026-09-18~2026-10-03",
+      "websites": [
+        "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html"
+      ],
+      "venue_zh": "香港大會堂劇院",
+      "venue_en": "Hong Kong City Hall Theatre",
+      "address_zh": "香港中環愛丁堡廣場5號",
+      "address_en": "5 Edinburgh Place, Central, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "b42b88b3-5b41-11f1-a41b-1ab7d6ca2563",
+      "category": "performance/theatre/drama",
+      "title_zh": "童話帝國",
+      "title_en": "Game Game Kingdom",
+      "opening_periods": "2026-02-11~2027-11-29",
+      "websites": [
+        "https://hkac.org.hk/calendar_detail/?u=gamegamekingdom"
+      ],
+      "venue_zh": "香港藝術中心麥高利小劇場",
+      "venue_en": "McAulay Studio, Hong Kong Arts Centre",
+      "address_zh": "香港灣仔港灣道2號",
+      "address_en": "2 Harbour Road, Wan Chai, Hong Kong",
+      "district": "hk_wanchai"
+    },
+    {
+      "id": "160156c9-5b47-11f1-a41b-1ab7d6ca2563",
+      "category": "performance/theatre/musical",
+      "title_zh": "音樂劇《玉良》",
+      "title_en": "Musical Pan Yu Lin",
+      "opening_periods": "2026-09-19~2026-09-20",
+      "websites": [
+        "https://www.actorsfamily.hk/project/musical-pan-yu-lin/"
+      ],
+      "venue_zh": "葵青劇院演藝廳",
+      "venue_en": "Auditorium, Kwai Tsing Theatre",
+      "address_zh": "香港新界葵涌興寧路12號",
+      "address_en": "12 Hing Ning Road, Kwai Chung, New Territories, Hong Kong",
+      "district": ""
+    },
+    {
+      "id": "5d1a8ac7-5b3f-11f1-a41b-1ab7d6ca2563",
+      "category": "talk_seminar",
+      "title_zh": "",
+      "title_en": "The Gam(bl)ing Conference: Thinking Outside the Loot Box",
+      "opening_periods": "2026-09-27~2026-09-28",
+      "websites": [
+        "https://www.scm.cityu.edu.hk/en/events/the-gambling-conference"
+      ],
+      "venue_zh": "",
+      "venue_en": "Senate Room, 19/F, Lau Ming Wai Academic Building (LAU), City University of Hong Kong",
+      "address_zh": "",
+      "address_en": "Senate Room, 19/F, Lau Ming Wai Academic Building (LAU), City University of Hong Kong",
+      "district": ""
+    }
+  ]
+}
