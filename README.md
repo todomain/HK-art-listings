@@ -24,11 +24,10 @@ Art event information in Hong Kong is highly fragmented, scattered across countl
 xychart-beta
     x-axis ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
     y-axis 0 --> 550
-    bar [395, 378, 514, 382, 359, 235]
-    line [395, 378, 514, 382, 359, 235]
+    bar [394, 369, 521, 387, 404, 358]
+    line [394, 369, 521, 387, 404, 358]
 ```
 <br/>
-
 ## Data Pipeline 數據處理
 
 1. **Primary Source Ingestion 第一方來源** <br/>

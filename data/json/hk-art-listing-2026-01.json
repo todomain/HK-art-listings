@@ -1,8 +1,8 @@
 {
   "summary": {
     "month": "2026-01",
-    "total_records": 395,
-    "last_updated": "2026-06-02"
+    "total_records": 394,
+    "last_updated": "2026-06-10"
   },
   "records": [
     {
@@ -18,7 +18,7 @@
       "venue_en": "Louis Koo Cinema, Hong Kong Arts Centre",
       "address_zh": "香港灣仔港灣道2號",
       "address_en": "2 Harbour Road, Wan Chai, Hong Kong",
-      "district": "n/a"
+      "district": "hk_wanchai"
     },
     {
       "id": "716c8045-387d-11f1-81dc-dafe16e01704",
@@ -60,9 +60,9 @@
         "https://www.goethe.de/ins/hon/en/ver.cfm?event_id=27195484"
       ],
       "venue_zh": "百老匯電影中心",
-      "venue_en": "",
+      "venue_en": "Broadway Cinematheque",
       "address_zh": "九龍油麻地眾坊街3號駿發花園",
-      "address_en": "",
+      "address_en": "Prosperous Garden, 3 Public Square Street, Yau Ma Tei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -75,9 +75,9 @@
         "https://www.goethe.de/ins/hon/en/ver.cfm?event_id=27195483"
       ],
       "venue_zh": "百老匯電影中心",
-      "venue_en": "",
+      "venue_en": "Broadway Cinematheque",
       "address_zh": "九龍油麻地眾坊街3號駿發花園",
-      "address_en": "",
+      "address_en": "Prosperous Garden, 3 Public Square Street, Yau Ma Tei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -91,8 +91,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -120,9 +120,9 @@
         "https://www.goethe.de/ins/hon/en/ver.cfm?event_id=27195492"
       ],
       "venue_zh": "百老匯電影中心",
-      "venue_en": "Hong Kong Arts Centre",
+      "venue_en": "Broadway Cinematheque",
       "address_zh": "九龍油麻地眾坊街3號駿發花園",
-      "address_en": "14/F Hong Kong Arts Centre 2 Harbour Road, Wan Chai, Hong Kong",
+      "address_en": "Prosperous Garden, 3 Public Square Street, Yau Ma Tei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -171,6 +171,36 @@
       "district": "kl_west"
     },
     {
+      "id": "7101ea35-613f-11f1-9cfa-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "「生命相遇，一次」— 水嶋美月新作展",
+      "title_en": "Where Life Meets, Once — New Works by Mizuki Nishiyama",
+      "opening_periods": "2025-11-27~2026-01-23",
+      "websites": [
+        "https://www.instagram.com/bac_hk/p/DRUHhRtEYVJ/"
+      ],
+      "venue_zh": "中央街波丁街22號",
+      "venue_en": "22 Pottinger Street, Central, Hong Kong",
+      "address_zh": "香港中央街波丁街22號",
+      "address_en": "22 Pottinger Street, Central, Hong Kong",
+      "district": ""
+    },
+    {
+      "id": "85ab3e86-5f0e-11f1-a41b-1ab7d6ca2563",
+      "category": "exhibition",
+      "title_zh": "第三屆「大灣區大專院校聯校作品展」",
+      "title_en": "The 3rd Greater Bay Area Joint-School Exhibition",
+      "opening_periods": "2026-01-16~2026-02-28",
+      "websites": [
+        "https://www.instagram.com/kc100artspace/p/DTwep9hE6cb/"
+      ],
+      "venue_zh": "KC100 藝術空間",
+      "venue_en": "KC100 Art Space",
+      "address_zh": "葵涌葵昌路 100 號",
+      "address_en": "100 Kwai Cheong Road, Kwai Chung (Exit E of Kwai Hing MTR Station)",
+      "district": "nt"
+    },
+    {
       "id": "703e9219-53ee-11f1-9688-1ab7d6ca2563",
       "category": "exhibition",
       "title_zh": "意馬：覺知色空(𢓭言）",
@@ -182,7 +212,7 @@
       "venue_zh": "Running Out of Space",
       "venue_en": "Running Out of Space",
       "address_zh": "香港黃竹坑黃竹坑道42號利美中心12樓11室",
-      "address_en": "Unit 11, 12/F, Remex Centre, 42 Wong Chuk Hang Rd, Wong Chuk Hang, Hk",
+      "address_en": "Unit 11, 12/F, Remex Centre, 42 Wong Hang Road, Wong Chuk Hang, Hong Kong",
       "district": "hk_south"
     },
     {
@@ -224,10 +254,10 @@
       "websites": [
         "https://www.instagram.com/p/DSoUcwskiPB"
       ],
-      "venue_zh": "百老匯電影中心",
-      "venue_en": "",
+      "venue_zh": "百老匯電影中心 kubrick",
+      "venue_en": "kubrick, Broadway Cinematheque",
       "address_zh": "九龍油麻地眾坊街3號駿發花園",
-      "address_en": "",
+      "address_en": "Prosperous Garden, 3 Public Square Street, Yau Ma Tei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -256,8 +286,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 藝廊",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Gallery",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -285,9 +315,9 @@
         "https://www.sothebys.com/zh-hant/文章/香港漫畫百年-漫畫與視覺文化演進史略?locale=zh-Hant"
       ],
       "venue_zh": "香港蘇富比旗艦藝廊",
-      "venue_en": "Sotheby's flagship gallery",
+      "venue_en": "Sotheby's Maison, Hong Kong",
       "address_zh": "香港中環干諾道中8號置地遮打地下",
-      "address_en": "",
+      "address_en": "Landmark Chater, 8 Connaught Road Central, Central",
       "district": "hk_central_west"
     },
     {
@@ -300,9 +330,9 @@
         "https://www.sothebys.com/en/digital-catalogues/intimate-form-a-collection-of-small-scale-sculpture-by-henry-moore"
       ],
       "venue_zh": "香港蘇富比旗艦藝廊",
-      "venue_en": "Sotheby's Hong Kong",
+      "venue_en": "Sotheby's Maison, Hong Kong",
       "address_zh": "香港中環干諾道中8號置地遮打地下",
-      "address_en": "G/F, Landmark Chater, 8 Connaught Road Central, Central",
+      "address_en": "Landmark Chater, 8 Connaught Road Central, Central",
       "district": "hk_central_west"
     },
     {
@@ -315,9 +345,9 @@
         "https://www.sothebys.com/en/digital-catalogues/heavens-mandate-giuseppe-castigliones-auspicious-lotus-for-the-yongzheng-emperor"
       ],
       "venue_zh": "香港蘇富比旗艦藝廊",
-      "venue_en": "Sotheby's Hong Kong Salon, G/F, Landmark Chater, 8 Connaught Road Central, Central",
+      "venue_en": "Sotheby's Maison, Hong Kong",
       "address_zh": "香港中環干諾道中8號置地遮打地下",
-      "address_en": "Sotheby's Hong Kong Salon, G/F, Landmark Chater, 8 Connaught Road Central, Central",
+      "address_en": "Landmark Chater, 8 Connaught Road Central, Central",
       "district": "hk_central_west"
     },
     {
@@ -332,7 +362,7 @@
       "venue_zh": "香港蘇富比旗艦藝廊",
       "venue_en": "Sotheby's Maison, Hong Kong",
       "address_zh": "香港中環干諾道中8號置地遮打地下",
-      "address_en": "8 Connaught Road Central, Central, Hong Kong",
+      "address_en": "Landmark Chater, 8 Connaught Road Central, Central",
       "district": "hk_central_west"
     },
     {
@@ -378,7 +408,7 @@
       "venue_en": "",
       "address_zh": "香港金鐘道88號",
       "address_en": "",
-      "district": "hk_central_west"
+      "district": "hk_wanchai"
     },
     {
       "id": "eb6a50dd-f131-11f0-8f8a-dafe16e01704",
@@ -390,9 +420,9 @@
         "https://www.instagram.com/p/DSpIA1Cky4x"
       ],
       "venue_zh": "WAKA Artisans",
-      "venue_en": "",
+      "venue_en": "WAKA Artisans",
       "address_zh": "香港上環摩羅上街40A",
-      "address_en": "",
+      "address_en": "40A Upper Lascar Row, Sheung Wan, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -408,7 +438,7 @@
       "venue_en": "Indra and Harry Banga Gallery, City University of Hong Kong",
       "address_zh": "香港九龍塘達之路",
       "address_en": "Tat Chee Avenue, Kowloon Tong, Kowloon",
-      "district": "kl_west"
+      "district": "kl_central"
     },
     {
       "id": "6e00d35d-fb19-11f0-8bdb-dafe16e01704",
@@ -497,8 +527,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 藝廊",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Gallery",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -692,23 +722,38 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 藝廊",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Gallery",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
-      "id": "713ad011-33ba-11f1-887f-dafe16e01704",
+      "id": "78c825c4-5f0c-11f1-a41b-1ab7d6ca2563",
       "category": "exhibition/gallery",
-      "title_zh": "無償",
-      "title_en": "I have your back, do you have mine?",
-      "opening_periods": "2026-01-31~2026-02-13",
+      "title_zh": "",
+      "title_en": "The Jeeum: A Beginning of More Connections : Grand Opening in Central",
+      "opening_periods": "2025-11-10~2026-02-27",
       "websites": [
-        "https://www.instagram.com/precedeeartspace/p/DUAv6Egkz6o"
+        "https://www.jeeumgallery.com/exhibitions/17-the-jeeum-a-beginning-of-more-connections-grand-opening-in-central/"
       ],
-      "venue_zh": "PRÉCÉDÉE",
-      "venue_en": "PRÉCÉDÉE",
-      "address_zh": "香港油麻地上海街304號",
-      "address_en": "304 Shanghai Street, Yau Ma Tei, Hong Kong",
+      "venue_zh": "Gallery Jeeum 知音畫廊",
+      "venue_en": "Gallery Jeeum",
+      "address_zh": "香港中環安蘭街9號3樓",
+      "address_en": "3/F, 9 On Lan Street, Central",
+      "district": "hk_central_west"
+    },
+    {
+      "id": "b3dca3f5-5ef6-11f1-a41b-1ab7d6ca2563",
+      "category": "exhibition/gallery",
+      "title_zh": "兔伴霓裳",
+      "title_en": "QEEBOO Rabbit",
+      "opening_periods": "2025-12-10~2026-06-29",
+      "websites": [
+        "https://www.hkdesigncentre.org/tc/whats-on/qeeboo-rabbit-chair-by-stefano-giovannoni/1127"
+      ],
+      "venue_zh": "DX設計館",
+      "venue_en": "DX Design Gallery",
+      "address_zh": "九龍深水埗通州街280號",
+      "address_en": "280 Tung Chau Street, Sham Shui Po, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -751,9 +796,9 @@
         "https://www.instagram.com/tinyspacegallery/p/DTZ0JjLifGW"
       ],
       "venue_zh": "Tiny Space Gallery",
-      "venue_en": "Tiny Space Gallery, 32-34 Tai Ping Shan Street, Sheung Wan",
+      "venue_en": "Tiny Space Gallery",
       "address_zh": "香港上環太平山街32-34號",
-      "address_en": "21 Wong Chuk Hang Road, Sheung Wan, Hong Kong",
+      "address_en": "32-34 Tai Ping Shan St, Sheung Wan",
       "district": "hk_central_west"
     },
     {
@@ -784,21 +829,6 @@
       "venue_en": "Touch Gallery",
       "address_zh": "香港中環荷李活道10號大館03-201 & 202舖",
       "address_en": "Shop 03-201 & 202, Tai Kwun, 10 Hollywood Road, Central, Hong Kong",
-      "district": "hk_central_west"
-    },
-    {
-      "id": "16818d3e-0175-11f1-a3e3-dafe16e01704",
-      "category": "exhibition/gallery",
-      "title_zh": "【仲春・澄心】2026新春限定展",
-      "title_en": "Heart of Spring · Lucid Flow ",
-      "opening_periods": "2026-01-31~2026-02-27",
-      "websites": [
-        "https://zh.touchceramics.com/2026-lunar-new-year-exhibition"
-      ],
-      "venue_zh": "Touch Ceramics",
-      "venue_en": "Touch Ceramics",
-      "address_zh": "香港中環荷李活道10號大館03-203舖",
-      "address_en": "Shop 03-203, Tai Kwun, 10 Hollywood Road, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -886,9 +916,9 @@
         "https://www.instagram.com/p/DTrpbj3Cd1e"
       ],
       "venue_zh": "Illuminati Fine Art 明畫廊",
-      "venue_en": "",
+      "venue_en": "Illuminati Fine Art",
       "address_zh": "香港中環荷李活道31號-33號",
-      "address_en": "",
+      "address_en": "31-33 Hollywood Road, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -916,9 +946,9 @@
         "https://www.kwaifunghin.com/zh/exhibitions/111-enchanted-visions-kwai-fung-hin-art-gallery-hong-kong/overview"
       ],
       "venue_zh": "Kwai Fung Hin 季豐軒",
-      "venue_en": "",
+      "venue_en": "Kwai Fung Hin",
       "address_zh": "香港中環皇后大道中30號娛樂行9樓A",
-      "address_en": "",
+      "address_en": "Office A, 9/F, Entertainment Building, 30 Queen’s Road Central, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -1189,7 +1219,7 @@
       "venue_en": "artellex",
       "address_zh": "九龍長沙灣長順街1-3號新昌工業大廈廈2樓204A室",
       "address_en": "Unit 204A, 2/F, Sun Cheong Industrial Building, 1-3 Cheung Shun Street, Cheung Sha Wan, Kowloon, Hong Kong",
-      "district": "nt"
+      "district": "kl_west"
     },
     {
       "id": "4f6ead21-ed2e-11f0-8ee1-dafe16e01704",
@@ -1201,9 +1231,9 @@
         "https://thehartzproject.com/exhibitions/15-lost-and-found-a-duo-exhibition-by-thomas-cameron-and-momin/overview"
       ],
       "venue_zh": "Gaia Art Space 蓋亞藝術空間",
-      "venue_en": "",
+      "venue_en": "Gaia Art Space",
       "address_zh": "香港黃竹坑業勤街39號Landmark South 2101",
-      "address_en": "",
+      "address_en": "Room 2101, Landmark South, 39 Yip Kan Street, Wong Chuk Hang, Hong Kong",
       "district": "hk_south"
     },
     {
@@ -1367,7 +1397,7 @@
       ],
       "venue_zh": "gdm Hong Kong 爍樂香港",
       "venue_en": "gdm Hong Kong",
-      "address_zh": "香港中環都爹利街11號 律敦治中心一樓 108 室",
+      "address_zh": "香港中環都爹利街11號律敦治中心108室",
       "address_en": "108 Ruttonjee Centre, 11 Duddell Street, Central, Hong Kong",
       "district": "hk_central_west"
     },
@@ -1412,8 +1442,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 藝廊",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Gallery",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -1471,9 +1501,9 @@
         "https://www.instagram.com/p/DRJtvZFj74Z"
       ],
       "venue_zh": "Art of Nature Contemporary 天趣當代藝術館",
-      "venue_en": "Art of Nature Contemporary 2/F, New World Tower II",
+      "venue_en": "Art of Nature Contemporary",
       "address_zh": "中環皇后大道中18號新世界大廈2期2樓全層",
-      "address_en": "18 Queen’s Road Central, Central",
+      "address_en": "2/F, New World Tower 2, 18 Queen's Road Central, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -1488,7 +1518,7 @@
       "venue_zh": "Illuminati Fine Art 明畫廊",
       "venue_en": "Illuminati Fine Art",
       "address_zh": "香港中環荷李活道31號-33號",
-      "address_en": "",
+      "address_en": "31-33 Hollywood Road, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -1532,8 +1562,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 藝廊",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Gallery",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -1563,7 +1593,7 @@
       "venue_zh": "Contemporary by Angela Li",
       "venue_en": "Contemporary by Angela Li",
       "address_zh": "香港上環荷李活道248號",
-      "address_en": "This website uses cookies This site uses cookies to help make it more useful to you. Please contact us to find out more about our Cookie Policy.",
+      "address_en": "248 Hollywood Road, Sheung Wan, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -1816,9 +1846,9 @@
         "https://galeriedumonde.com/exhibitions/97-fung-ming-chip-gdm-hong-kong/overview"
       ],
       "venue_zh": "gdm Hong Kong 爍樂香港",
-      "venue_en": "",
-      "address_zh": "香港中環都爹利街11號律敦治中心一樓108室",
-      "address_en": "",
+      "venue_en": "gdm Hong Kong",
+      "address_zh": "香港中環都爹利街11號律敦治中心108室",
+      "address_en": "108 Ruttonjee Centre, 11 Duddell Street, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -2092,21 +2122,6 @@
       "district": "hk_wanchai"
     },
     {
-      "id": "4df45579-0df5-11f1-8081-dafe16e01704",
-      "category": "exhibition/independent",
-      "title_zh": "",
-      "title_en": "MEG Art Exhibition",
-      "opening_periods": "2026-01-31~2026-03-03",
-      "websites": [
-        "https://www.pmq.org.hk/event/meg-art-exhibition/?lang=ch"
-      ],
-      "venue_zh": "Arts & Crafts Studio",
-      "venue_en": "Arts & Crafts Studio",
-      "address_zh": "香港中環鴨巴甸街35號PMQ元創方H401",
-      "address_en": "H401, PMQ, 35 Aberdeen Street, Central, Hong Kong",
-      "district": "hk_central_west"
-    },
-    {
       "id": "b488ddff-0176-11f1-a3e3-dafe16e01704",
       "category": "exhibition/independent",
       "title_zh": "個展｜陶芸家・小林耶摩人",
@@ -2131,9 +2146,9 @@
         "https://www.instagram.com/p/DTlEHUFD1Bz"
       ],
       "venue_zh": "The Bridge+ Living Art Space 人文藝術空間",
-      "venue_en": "",
+      "venue_en": "The Bridge+ Living Art Space",
       "address_zh": "香港九龍深水埗鴨寮街82號",
-      "address_en": "",
+      "address_en": "82 Apliu Street, Sham Shui Po, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -2252,8 +2267,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -2312,8 +2327,8 @@
       ],
       "venue_zh": "Kwai Fung Hin 季豐軒",
       "venue_en": "Kwai Fung Hin",
-      "address_zh": "香港中環皇后大道中 30 號",
-      "address_en": "30 Queen's Road Central, Entertainment Building, 30 Queen's Road Central, Hong Kong",
+      "address_zh": "香港中環皇后大道中30號娛樂行9樓A",
+      "address_en": "Office A, 9/F, Entertainment Building, 30 Queen’s Road Central, Central, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -2327,8 +2342,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -2386,9 +2401,9 @@
         "https://www.to-art.house/zh/exhibitions/15"
       ],
       "venue_zh": "To Art House 嚮渡藝術空間",
-      "venue_en": "",
+      "venue_en": "To Art House",
       "address_zh": "香港火炭",
-      "address_en": "",
+      "address_en": "Hong Kong, Fotan",
       "district": "nt"
     },
     {
@@ -2401,9 +2416,9 @@
         "https://podiumgallery.com/dennis-scholl-like-a-thief-in-the-night"
       ],
       "venue_zh": "PODIUM",
-      "venue_en": "",
+      "venue_en": "PODIUM",
       "address_zh": "香港黃竹坑香葉道4號怡達工業大廈9樓D室",
-      "address_en": "4 Heung Yip Road",
+      "address_en": "Flat D, 9/F, Yee Teck Industrial Building, 4 Heung Yip Road, Wong Chuk Hang, Hong Kong",
       "district": "hk_south"
     },
     {
@@ -2485,13 +2500,13 @@
       "id": "b961b03a-07ce-11f1-98ca-dafe16e01704",
       "category": "exhibition/institution",
       "title_zh": "微光與迴響：英國文化協會藏品與香港青年藝術家對話",
-      "title_en": "Exhibition Gleams and Echoes: Works from the British Council Collection in Dialogue with Hong Kong Young Voices",
+      "title_en": "Gleams and Echoes: Works from the British Council Collection in Dialogue with Hong Kong Young Voices",
       "opening_periods": "2025-12-08~2026-06-06",
       "websites": [
         "https://www.britishcouncil.hk/微光與迴響：英國文化協會藏品與香港青年藝術家對話"
       ],
-      "venue_zh": "英國文化協會",
-      "venue_en": "British Council Hong Kong",
+      "venue_zh": "英國文化協會書店畫廊",
+      "venue_en": "Bookshop Gallery, British Council Hong Kong",
       "address_zh": "香港金鐘法院道3號",
       "address_en": "3 Justice Drive, Admiralty, Hong Kong",
       "district": "hk_wanchai"
@@ -2717,8 +2732,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -2732,8 +2747,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -2776,9 +2791,9 @@
         "https://www.aaa2025auction.com"
       ],
       "venue_zh": "Asia Art Archive 亞洲藝術文獻庫",
-      "venue_en": "",
+      "venue_en": "Asia Art Archive",
       "address_zh": "香港上環荷李活道233號荷李活商業中心11樓",
-      "address_en": "233 Hollywood Road",
+      "address_en": "11/F Hollywood Centre, 233 Hollywood Road, Sheung Wan, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -2794,7 +2809,7 @@
       "venue_en": "Oi!, East Kowloon Cultural Centre",
       "address_zh": "香港北角油街12號",
       "address_en": "12 Oil Street, North Point, Hong Kong",
-      "district": "hk_south kl_east"
+      "district": "hk_east"
     },
     {
       "id": "ad0829dc-b47e-11f0-afa2-dafe16e01704",
@@ -2887,6 +2902,21 @@
       "district": "hk_wanchai"
     },
     {
+      "id": "e2dd04af-5f06-11f1-a41b-1ab7d6ca2563",
+      "category": "exhibition/museum",
+      "title_zh": "《存酒人》原著小説 墨畫展暨周邊限定店",
+      "title_en": "The Drunkard's Tale Original Novel Ink Painting Exhibition and Limited Merchandise Store",
+      "opening_periods": "2026-01-22~2026-01-31",
+      "websites": [
+        "https://www.instagram.com/wonderwall.today/p/DT7igpLCb18/"
+      ],
+      "venue_zh": "Wonderwall Gallery",
+      "venue_en": "Wonderwall Gallery",
+      "address_zh": "香港西營盤皇后大道西111號",
+      "address_en": "111 Queen's Road West, Sai Ying Pun, Hong Kong Island, Hong Kong",
+      "district": "hk_central_west"
+    },
+    {
       "id": "aedfa80c-423e-11f1-81dc-dafe16e01704",
       "category": "exhibition/museum",
       "title_zh": "藏域梵珍 • 佛學之路 — 徐氏藝術基金捐贈佛教文物展",
@@ -2930,21 +2960,6 @@
       "address_zh": "香港沙田文林路1號",
       "address_en": "1 Man Lam Road, Sha Tin, Hong Kong",
       "district": "nt"
-    },
-    {
-      "id": "26f57525-0176-11f1-a3e3-dafe16e01704",
-      "category": "exhibition/museum",
-      "title_zh": "尋覓・一馬當先",
-      "title_en": "Seeking・Gallop at the Head",
-      "opening_periods": "on view from 2026-01-31",
-      "websites": [
-        "https://www.guweimuseum.com/zh-hk/exhibition/尋覓・一馬當先"
-      ],
-      "venue_zh": "Guwei Museum 古魏博物館",
-      "venue_en": "Guwei Museum",
-      "address_zh": "香港黃竹坑道21號環匯廣場33樓全層",
-      "address_en": "21 Wong Chuk Hang Road",
-      "district": "hk_south"
     },
     {
       "id": "03e0917a-0176-11f1-a3e3-dafe16e01704",
@@ -3436,9 +3451,9 @@
         "https://cbal.com.hk/zh/exhibitions/115-still-be-life-group-exhibition-curated-by-shirky-chan/overview"
       ],
       "venue_zh": "Contemporary by Angela Li",
-      "venue_en": "",
+      "venue_en": "Contemporary by Angela Li",
       "address_zh": "香港上環荷李活道248號",
-      "address_en": "",
+      "address_en": "248 Hollywood Road, Sheung Wan, Hong Kong",
       "district": "hk_central_west"
     },
     {
@@ -3484,7 +3499,7 @@
       "venue_en": "Quite Gallery",
       "address_zh": "香港觀塘信義街29號 Gravity 32樓",
       "address_en": "32/F Gravity, 29 Hing Yip Street, Kwun Tong, Kowloon",
-      "district": "hk_central_west"
+      "district": "kl_east"
     },
     {
       "id": "657dd93f-edbf-11f0-8ee1-dafe16e01704",
@@ -3635,21 +3650,6 @@
       "address_zh": "香港中環堅尼地道 7A 號",
       "address_en": "7A Kennedy Road",
       "district": "hk_central_west"
-    },
-    {
-      "id": "4e1efa92-f138-11f0-8f8a-dafe16e01704",
-      "category": "installation/publicart",
-      "title_zh": "川流大山",
-      "title_en": "Flows with Big Mountain",
-      "opening_periods": "2026-01-31~2026-03-31",
-      "websites": [
-        "https://www.instagram.com/p/DTHcCohE3uM"
-      ],
-      "venue_zh": "貫文空間",
-      "venue_en": "Koon Man Space",
-      "address_zh": "荃灣荃錦公路338號川龍村",
-      "address_en": "Chuen Lung Village, 338 Route Twisk, Tsuen Wan, Hong Kong",
-      "district": "nt"
     },
     {
       "id": "a1763d1d-b9f8-11f0-afa2-dafe16e01704",
@@ -3993,8 +3993,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -4448,21 +4448,6 @@
       "district": "kl_west"
     },
     {
-      "id": "689cb2c5-ef79-11f0-8ee1-dafe16e01704",
-      "category": "performance/music",
-      "title_zh": "Sapphire Bell 手鈴音樂會2026《此刻》",
-      "title_en": "Sapphire Bell Handbell Concert 2026 'Moment in Time'",
-      "opening_periods": "2026-01-31",
-      "websites": [
-        "https://www.instagram.com/p/DTAVzbdEi3j"
-      ],
-      "venue_zh": "上環文娛中心劇院",
-      "venue_en": "Theatre, Sheung Wan Civic Centre",
-      "address_zh": "香港上環皇后大道中345號",
-      "address_en": "345 Queen's Road Central, Sheung Wan, Hong Kong",
-      "district": "hk_central_west"
-    },
-    {
       "id": "b30a0490-ef72-11f0-8ee1-dafe16e01704",
       "category": "performance/music",
       "title_zh": "自由波 Vol. 3：The Crush──豐收之夕",
@@ -4533,8 +4518,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 賽馬會黑盒劇場",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Black Box Theatre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -4626,6 +4611,21 @@
       "address_zh": "香港中環愛丁堡廣場5號",
       "address_en": "5 Edinburgh Place, Central, Hong Kong",
       "district": "hk_central_west"
+    },
+    {
+      "id": "0f570831-626e-11f1-9cfa-1ab7d6ca2563",
+      "category": "performance/music/concert",
+      "title_zh": "香港醫學會管弦樂團",
+      "title_en": "Hong Kong Medical Association Orchestra",
+      "opening_periods": "2025-12-18 / 2026-02-03",
+      "websites": [
+        "https://www.facebook.com/HKMAOrchestra/"
+      ],
+      "venue_zh": "",
+      "venue_en": "",
+      "address_zh": "",
+      "address_en": "",
+      "district": ""
     },
     {
       "id": "931f111e-22f0-11f1-88ee-dafe16e01704",
@@ -4848,8 +4848,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -5028,8 +5028,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 賽馬會黑盒劇場",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Black Box Theatre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -5058,8 +5058,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 賽馬會黑盒劇場",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Black Box Theatre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -5073,8 +5073,8 @@
       ],
       "venue_zh": "JCCAC 賽馬會創意藝術中心 賽馬會黑盒劇場",
       "venue_en": "JCCAC Jockey Club Creative Arts Centre Black Box Theatre",
-      "address_zh": "九龍石硤尾白田街30號",
-      "address_en": "30 Pak Tin Street, Shek Kip Mei, Kowloon",
+      "address_zh": "香港九龍石硤尾白田街30號",
+      "address_en": "30, Pak Tin Street, Shek Kip Mei, Kowloon, Hong Kong",
       "district": "kl_west"
     },
     {
@@ -5528,21 +5528,6 @@
       "district": "kl_west"
     },
     {
-      "id": "720da7db-3d3c-11f1-81dc-dafe16e01704",
-      "category": "performance/xiqu",
-      "title_zh": "粵劇《黃飛虎反五關》",
-      "title_en": "",
-      "opening_periods": "2026-01-31",
-      "websites": [
-        "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=178246"
-      ],
-      "venue_zh": "高山劇場 (劇院)",
-      "venue_en": "Ko Shan Theatre (Theatre)",
-      "address_zh": "香港九龍紅磡高山道77號",
-      "address_en": "77 Ko Shan Road, Hung Hom, Kowloon, Hong Kong",
-      "district": "kl_central"
-    },
-    {
       "id": "d52c51c3-3d3b-11f1-81dc-dafe16e01704",
       "category": "performance/xiqu",
       "title_zh": "《名劇粵韻迎新春》粵劇折子戲",
@@ -5928,9 +5913,9 @@
       ],
       "venue_zh": "Contemporary by Angela Li",
       "venue_en": "Contemporary by Angela Li",
-      "address_zh": "This website uses cookies This site uses cookies to help make it more useful to you. Please contact us to find out more about our Cookie Policy.",
-      "address_en": "This website uses cookies This site uses cookies to help make it more useful to you. Please contact us to find out more about our Cookie Policy.",
-      "district": ""
+      "address_zh": "香港上環荷李活道248號",
+      "address_en": "248 Hollywood Road, Sheung Wan, Hong Kong",
+      "district": "hk_central_west"
     }
   ]
 }
